@@ -1,0 +1,4441 @@
+{
+ "type": "FeatureCollection",
+ "name": "Peta Kampus ULBI (lengkap dengan jaringan jalan)",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ulbi-01",
+    "nama": "Bank BRI ATM - POLTEKPOS",
+    "jenis": "fasilitas",
+    "luas_m2": 1213.8,
+    "fill": "#005BBD",
+    "fill-opacity": 1.0
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       107.576029,
+       -6.873283
+      ],
+      [
+       107.575964,
+       -6.873659
+      ],
+      [
+       107.576224,
+       -6.8737
+      ],
+      [
+       107.576281,
+       -6.873325
+      ],
+      [
+       107.576029,
+       -6.873283
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ulbi-02",
+    "nama": "Gedung Pendidikan",
+    "jenis": "gedung",
+    "luas_m2": 2516.9,
+    "fill": "#F26707",
+    "fill-opacity": 0.9
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       107.575255,
+       -6.873212
+      ],
+      [
+       107.575227,
+       -6.873584
+      ],
+      [
+       107.575505,
+       -6.873604
+      ],
+      [
+       107.575786,
+       -6.873628
+      ],
+      [
+       107.575811,
+       -6.873269
+      ],
+      [
+       107.575255,
+       -6.873212
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ulbi-03",
+    "nama": "Anggrek",
+    "jenis": "gedung",
+    "luas_m2": 2133.9,
+    "fill": "#312E81",
+    "fill-opacity": 0.9
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       107.575516,
+       -6.872557
+      ],
+      [
+       107.575462,
+       -6.873013
+      ],
+      [
+       107.575836,
+       -6.87306
+      ],
+      [
+       107.575887,
+       -6.872597
+      ],
+      [
+       107.575516,
+       -6.872557
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ulbi-04",
+    "nama": "FLTB",
+    "jenis": "gedung",
+    "luas_m2": 1995.8,
+    "fill": "#FEE900",
+    "fill-opacity": 1.0
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       107.576172,
+       -6.872489
+      ],
+      [
+       107.576097,
+       -6.872949
+      ],
+      [
+       107.576444,
+       -6.873001
+      ],
+      [
+       107.576515,
+       -6.872543
+      ],
+      [
+       107.576172,
+       -6.872489
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ulbi-05",
+    "nama": "Rafflesia",
+    "jenis": "gedung",
+    "luas_m2": 1815.7,
+    "fill": "#F76390",
+    "fill-opacity": 1.0
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       107.576816,
+       -6.87218
+      ],
+      [
+       107.57675,
+       -6.872631
+      ],
+      [
+       107.577074,
+       -6.872676
+      ],
+      [
+       107.577136,
+       -6.872229
+      ],
+      [
+       107.576816,
+       -6.87218
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ulbi-06",
+    "nama": "Rektorat Universitas Logistik dan Bisnis Internasional",
+    "jenis": "gedung",
+    "luas_m2": 698.7,
+    "fill": "#FF6F00",
+    "fill-opacity": 0.6
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       107.57554,
+       -6.873691
+      ],
+      [
+       107.575507,
+       -6.873866
+      ],
+      [
+       107.575818,
+       -6.873925
+      ],
+      [
+       107.575851,
+       -6.873747
+      ],
+      [
+       107.57554,
+       -6.873691
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ulbi-07",
+    "nama": "Motor",
+    "jenis": "fasilitas",
+    "luas_m2": 174.0,
+    "fill": "#4A4949",
+    "fill-opacity": 1.0
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       107.575177,
+       -6.873199
+      ],
+      [
+       107.575157,
+       -6.873327
+      ],
+      [
+       107.575148,
+       -6.873393
+      ],
+      [
+       107.575139,
+       -6.873455
+      ],
+      [
+       107.575178,
+       -6.873462
+      ],
+      [
+       107.575187,
+       -6.873408
+      ],
+      [
+       107.575207,
+       -6.873411
+      ],
+      [
+       107.57522,
+       -6.873334
+      ],
+      [
+       107.575233,
+       -6.873258
+      ],
+      [
+       107.575213,
+       -6.873255
+      ],
+      [
+       107.575219,
+       -6.873204
+      ],
+      [
+       107.575177,
+       -6.873199
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ulbi-08",
+    "nama": "Masjid Nurul Ilmi",
+    "jenis": "fasilitas",
+    "luas_m2": 124.7,
+    "fill": "#68822F",
+    "fill-opacity": 0.7
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       107.575938,
+       -6.872766
+      ],
+      [
+       107.575912,
+       -6.872861
+      ],
+      [
+       107.576013,
+       -6.872887
+      ],
+      [
+       107.576038,
+       -6.872794
+      ],
+      [
+       107.575938,
+       -6.872766
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ulbi-09",
+    "nama": "Tenis",
+    "jenis": "fasilitas",
+    "luas_m2": 854.0,
+    "fill": "#53A946",
+    "fill-opacity": 1.0
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       107.576766,
+       -6.872756
+      ],
+      [
+       107.576729,
+       -6.873013
+      ],
+      [
+       107.576992,
+       -6.873054
+      ],
+      [
+       107.577028,
+       -6.872793
+      ],
+      [
+       107.576766,
+       -6.872756
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ulbi-10",
+    "nama": "Sarana Prasarana",
+    "jenis": "gedung",
+    "luas_m2": 153.8,
+    "fill": "#8F8C8C",
+    "fill-opacity": 0.7
+   },
+   "geometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+     [
+      [
+       [
+        107.576674,
+        -6.872787
+       ],
+       [
+        107.576653,
+        -6.872941
+       ],
+       [
+        107.576717,
+        -6.87295
+       ],
+       [
+        107.576738,
+        -6.872796
+       ],
+       [
+        107.576674,
+        -6.872787
+       ]
+      ]
+     ],
+     [
+      [
+       [
+        107.576655,
+        -6.87299
+       ],
+       [
+        107.576653,
+        -6.873059
+       ],
+       [
+        107.576688,
+        -6.87306
+       ],
+       [
+        107.576691,
+        -6.872991
+       ],
+       [
+        107.576655,
+        -6.87299
+       ]
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ulbi-11",
+    "nama": "GOR",
+    "jenis": "fasilitas",
+    "luas_m2": 1048.9,
+    "fill": "#FF8800",
+    "fill-opacity": 1.0
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       107.576544,
+       -6.873162
+      ],
+      [
+       107.576506,
+       -6.873438
+      ],
+      [
+       107.576812,
+       -6.873478
+      ],
+      [
+       107.576848,
+       -6.873205
+      ],
+      [
+       107.576544,
+       -6.873162
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ulbi-12",
+    "nama": "Center of Technology",
+    "jenis": "gedung",
+    "luas_m2": 28.6,
+    "perlu_verifikasi": true,
+    "catatan": "Luas sangat kecil (28.6 m2), cek ulang hasil digitasi",
+    "fill": "#C9A24B",
+    "fill-opacity": 0.8
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       107.576639,
+       -6.87385
+      ],
+      [
+       107.57663,
+       -6.873878
+      ],
+      [
+       107.57671,
+       -6.873902
+      ],
+      [
+       107.576718,
+       -6.873877
+      ],
+      [
+       107.576639,
+       -6.87385
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ulbi-13",
+    "nama": "Perpustakaan",
+    "jenis": "gedung",
+    "luas_m2": 18.3,
+    "perlu_verifikasi": true,
+    "catatan": "Luas sangat kecil (18.3 m2), cek ulang hasil digitasi",
+    "fill": "#00EE30",
+    "fill-opacity": 0.7
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       107.576207,
+       -6.873201
+      ],
+      [
+       107.576202,
+       -6.87323
+      ],
+      [
+       107.576252,
+       -6.873238
+      ],
+      [
+       107.576257,
+       -6.873209
+      ],
+      [
+       107.576207,
+       -6.873201
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ulbi-14",
+    "nama": "Gandaria",
+    "jenis": "gedung",
+    "luas_m2": 848.9,
+    "fill": "#C9A24B",
+    "fill-opacity": 0.8
+   },
+   "geometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+     [
+      [
+       [
+        107.575036,
+        -6.873744
+       ],
+       [
+        107.575031,
+        -6.873818
+       ],
+       [
+        107.575189,
+        -6.873829
+       ],
+       [
+        107.575178,
+        -6.873918
+       ],
+       [
+        107.575409,
+        -6.873951
+       ],
+       [
+        107.575421,
+        -6.873861
+       ],
+       [
+        107.575189,
+        -6.873828
+       ],
+       [
+        107.575192,
+        -6.873753
+       ],
+       [
+        107.575109,
+        -6.873732
+       ],
+       [
+        107.575036,
+        -6.873744
+       ]
+      ]
+     ],
+     [
+      [
+       [
+        107.57502,
+        -6.873848
+       ],
+       [
+        107.575011,
+        -6.873947
+       ],
+       [
+        107.575148,
+        -6.873962
+       ],
+       [
+        107.575158,
+        -6.873867
+       ],
+       [
+        107.57502,
+        -6.873848
+       ]
+      ]
+     ],
+     [
+      [
+       [
+        107.575186,
+        -6.873989
+       ],
+       [
+        107.575175,
+        -6.874065
+       ],
+       [
+        107.57534,
+        -6.874088
+       ],
+       [
+        107.57535,
+        -6.874011
+       ],
+       [
+        107.575186,
+        -6.873989
+       ]
+      ]
+     ],
+     [
+      [
+       [
+        107.57486,
+        -6.873908
+       ],
+       [
+        107.574845,
+        -6.873993
+       ],
+       [
+        107.574941,
+        -6.87401
+       ],
+       [
+        107.574958,
+        -6.873928
+       ],
+       [
+        107.57486,
+        -6.873908
+       ]
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ulbi-15",
+    "nama": "Pos Satpam",
+    "jenis": "fasilitas",
+    "luas_m2": 489.9,
+    "fill": "#000000",
+    "fill-opacity": 0.7
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       107.575957,
+       -6.874012
+      ],
+      [
+       107.575943,
+       -6.874117
+      ],
+      [
+       107.575895,
+       -6.874125
+      ],
+      [
+       107.575868,
+       -6.87428
+      ],
+      [
+       107.57596,
+       -6.874297
+      ],
+      [
+       107.575987,
+       -6.874139
+      ],
+      [
+       107.576068,
+       -6.874136
+      ],
+      [
+       107.57611,
+       -6.874144
+      ],
+      [
+       107.576168,
+       -6.874167
+      ],
+      [
+       107.576197,
+       -6.874089
+      ],
+      [
+       107.57614,
+       -6.874069
+      ],
+      [
+       107.576079,
+       -6.874031
+      ],
+      [
+       107.575957,
+       -6.874012
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ulbi-16",
+    "nama": "YPBPI",
+    "jenis": "gedung",
+    "luas_m2": 336.9,
+    "fill": "#FF8800",
+    "fill-opacity": 1.0
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       107.575643,
+       -6.874437
+      ],
+      [
+       107.575546,
+       -6.874692
+      ],
+      [
+       107.575638,
+       -6.874731
+      ],
+      [
+       107.575736,
+       -6.874475
+      ],
+      [
+       107.575643,
+       -6.874437
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ulbi-17",
+    "nama": "MBG",
+    "jenis": "gedung",
+    "luas_m2": 244.4,
+    "fill": "#C9A24B",
+    "fill-opacity": 0.8
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       107.577009,
+       -6.87192
+      ],
+      [
+       107.57693,
+       -6.871989
+      ],
+      [
+       107.577055,
+       -6.872134
+      ],
+      [
+       107.577132,
+       -6.872065
+      ],
+      [
+       107.577009,
+       -6.87192
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ulbi-18",
+    "nama": "Sekretariat Himpunan",
+    "jenis": "gedung",
+    "luas_m2": 255.4,
+    "fill": "#C9A24B",
+    "fill-opacity": 0.8
+   },
+   "geometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+     [
+      [
+       [
+        107.576203,
+        -6.872253
+       ],
+       [
+        107.576152,
+        -6.872373
+       ],
+       [
+        107.576192,
+        -6.872389
+       ],
+       [
+        107.576243,
+        -6.87227
+       ],
+       [
+        107.576203,
+        -6.872253
+       ]
+      ]
+     ],
+     [
+      [
+       [
+        107.576379,
+        -6.87222
+       ],
+       [
+        107.576332,
+        -6.872296
+       ],
+       [
+        107.576463,
+        -6.872378
+       ],
+       [
+        107.57651,
+        -6.872304
+       ],
+       [
+        107.576379,
+        -6.87222
+       ]
+      ]
+     ],
+     [
+      [
+       [
+        107.576265,
+        -6.872206
+       ],
+       [
+        107.576264,
+        -6.87224
+       ],
+       [
+        107.576309,
+        -6.872236
+       ],
+       [
+        107.576307,
+        -6.872205
+       ],
+       [
+        107.576265,
+        -6.872206
+       ]
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ulbi-19",
+    "nama": "Ruang Serba Guna",
+    "jenis": "gedung",
+    "luas_m2": 46.0,
+    "fill": "#C9A24B",
+    "fill-opacity": 0.8
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       107.576211,
+       -6.872412
+      ],
+      [
+       107.576201,
+       -6.872472
+      ],
+      [
+       107.576265,
+       -6.872479
+      ],
+      [
+       107.576274,
+       -6.872424
+      ],
+      [
+       107.576211,
+       -6.872412
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ulbi-20",
+    "nama": "Menara Air",
+    "jenis": "fasilitas",
+    "luas_m2": 134.8,
+    "fill": "#3FB8AF",
+    "fill-opacity": 0.8
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       107.576576,
+       -6.872289
+      ],
+      [
+       107.576565,
+       -6.872415
+      ],
+      [
+       107.576652,
+       -6.872422
+      ],
+      [
+       107.576664,
+       -6.8723
+      ],
+      [
+       107.576576,
+       -6.872289
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ulbi-21",
+    "nama": "Kanopi",
+    "jenis": "jalur",
+    "panjang_m": 294.4,
+    "stroke": "#3FB8AF",
+    "stroke-width": 3
+   },
+   "geometry": {
+    "type": "MultiLineString",
+    "coordinates": [
+     [
+      [
+       107.575929,
+       -6.872947
+      ],
+      [
+       107.575889,
+       -6.873207
+      ],
+      [
+       107.576041,
+       -6.873228
+      ],
+      [
+       107.576343,
+       -6.873277
+      ],
+      [
+       107.576304,
+       -6.873526
+      ],
+      [
+       107.576302,
+       -6.873526
+      ]
+     ],
+     [
+      [
+       107.575888,
+       -6.873207
+      ],
+      [
+       107.575849,
+       -6.873457
+      ],
+      [
+       107.575803,
+       -6.873453
+      ],
+      [
+       107.575801,
+       -6.873455
+      ]
+     ],
+     [
+      [
+       107.575846,
+       -6.873457
+      ],
+      [
+       107.575819,
+       -6.873687
+      ],
+      [
+       107.575663,
+       -6.873666
+      ],
+      [
+       107.575507,
+       -6.873646
+      ],
+      [
+       107.575493,
+       -6.873725
+      ],
+      [
+       107.575471,
+       -6.873819
+      ]
+     ],
+     [
+      [
+       107.575835,
+       -6.873552
+      ],
+      [
+       107.575968,
+       -6.873576
+      ],
+      [
+       107.575978,
+       -6.873579
+      ]
+     ],
+     [
+      [
+       107.576368,
+       -6.87299
+      ],
+      [
+       107.576344,
+       -6.873272
+      ],
+      [
+       107.576343,
+       -6.873278
+      ]
+     ],
+     [
+      [
+       107.575903,
+       -6.873109
+      ],
+      [
+       107.575735,
+       -6.873097
+      ],
+      [
+       107.575738,
+       -6.873049
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ulbi-22",
+    "nama": "Parkir",
+    "jenis": "fasilitas",
+    "luas_m2": 577.0,
+    "fill": "#A59F9F",
+    "fill-opacity": 0.8
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       107.575482,
+       -6.87396
+      ],
+      [
+       107.575421,
+       -6.874157
+      ],
+      [
+       107.575637,
+       -6.87423
+      ],
+      [
+       107.575675,
+       -6.873996
+      ],
+      [
+       107.575575,
+       -6.873976
+      ],
+      [
+       107.575482,
+       -6.87396
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ulbi-23",
+    "nama": null,
+    "jenis": "belum_diklasifikasi",
+    "luas_m2": 41.3,
+    "perlu_verifikasi": true,
+    "catatan": "Belum bernama. Terdekat dengan: Motor",
+    "fill": "#9AA5AB",
+    "fill-opacity": 0.8
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       107.575131,
+       -6.87346
+      ],
+      [
+       107.575127,
+       -6.873506
+      ],
+      [
+       107.575198,
+       -6.873513
+      ],
+      [
+       107.575203,
+       -6.873466
+      ],
+      [
+       107.575131,
+       -6.87346
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ulbi-24",
+    "nama": null,
+    "jenis": "belum_diklasifikasi",
+    "luas_m2": 54.1,
+    "perlu_verifikasi": true,
+    "catatan": "Belum bernama. Terdekat dengan: Motor",
+    "fill": "#9AA5AB",
+    "fill-opacity": 0.8
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       107.575127,
+       -6.873513
+      ],
+      [
+       107.575116,
+       -6.873584
+      ],
+      [
+       107.575176,
+       -6.873595
+      ],
+      [
+       107.575188,
+       -6.873525
+      ],
+      [
+       107.575127,
+       -6.873513
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ulbi-25",
+    "nama": null,
+    "jenis": "belum_diklasifikasi",
+    "luas_m2": 53.1,
+    "perlu_verifikasi": true,
+    "catatan": "Belum bernama. Terdekat dengan: Masjid Nurul Ilmi",
+    "fill": "#9AA5AB",
+    "fill-opacity": 0.8
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       107.57591,
+       -6.872878
+      ],
+      [
+       107.575898,
+       -6.872942
+      ],
+      [
+       107.575964,
+       -6.872953
+      ],
+      [
+       107.575975,
+       -6.872889
+      ],
+      [
+       107.57591,
+       -6.872878
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ulbi-26",
+    "nama": null,
+    "jenis": "belum_diklasifikasi",
+    "luas_m2": 133.0,
+    "perlu_verifikasi": true,
+    "catatan": "Belum bernama. Terdekat dengan: Masjid Nurul Ilmi",
+    "fill": "#9AA5AB",
+    "fill-opacity": 0.8
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       107.576008,
+       -6.872632
+      ],
+      [
+       107.575966,
+       -6.872721
+      ],
+      [
+       107.576065,
+       -6.872767
+      ],
+      [
+       107.576108,
+       -6.872678
+      ],
+      [
+       107.576008,
+       -6.872632
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ulbi-27",
+    "nama": null,
+    "jenis": "belum_diklasifikasi",
+    "luas_m2": 202.6,
+    "perlu_verifikasi": true,
+    "catatan": "Belum bernama. Terdekat dengan: GOR",
+    "fill": "#9AA5AB",
+    "fill-opacity": 0.8
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       107.576888,
+       -6.873148
+      ],
+      [
+       107.576874,
+       -6.873233
+      ],
+      [
+       107.576877,
+       -6.873233
+      ],
+      [
+       107.576869,
+       -6.873278
+      ],
+      [
+       107.576867,
+       -6.873278
+      ],
+      [
+       107.576861,
+       -6.873316
+      ],
+      [
+       107.576854,
+       -6.873367
+      ],
+      [
+       107.576834,
+       -6.873364
+      ],
+      [
+       107.576819,
+       -6.873468
+      ],
+      [
+       107.576863,
+       -6.873474
+      ],
+      [
+       107.576871,
+       -6.873422
+      ],
+      [
+       107.576878,
+       -6.873371
+      ],
+      [
+       107.576893,
+       -6.873374
+      ],
+      [
+       107.576899,
+       -6.873331
+      ],
+      [
+       107.576906,
+       -6.873285
+      ],
+      [
+       107.576929,
+       -6.873288
+      ],
+      [
+       107.576936,
+       -6.873241
+      ],
+      [
+       107.576938,
+       -6.873242
+      ],
+      [
+       107.57695,
+       -6.873159
+      ],
+      [
+       107.576888,
+       -6.873148
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ulbi-28",
+    "nama": null,
+    "jenis": "belum_diklasifikasi",
+    "luas_m2": 98.1,
+    "perlu_verifikasi": true,
+    "catatan": "Belum bernama. Terdekat dengan: GOR",
+    "fill": "#9AA5AB",
+    "fill-opacity": 0.8
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       107.5765,
+       -6.873532
+      ],
+      [
+       107.576485,
+       -6.873616
+      ],
+      [
+       107.57658,
+       -6.873631
+      ],
+      [
+       107.576592,
+       -6.873549
+      ],
+      [
+       107.5765,
+       -6.873532
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ulbi-29",
+    "nama": null,
+    "jenis": "belum_diklasifikasi",
+    "luas_m2": 224.4,
+    "perlu_verifikasi": true,
+    "catatan": "Belum bernama. Terdekat dengan: Center of Technology",
+    "fill": "#9AA5AB",
+    "fill-opacity": 0.8
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       107.57665,
+       -6.873649
+      ],
+      [
+       107.576617,
+       -6.873805
+      ],
+      [
+       107.576731,
+       -6.873828
+      ],
+      [
+       107.576762,
+       -6.873675
+      ],
+      [
+       107.57665,
+       -6.873649
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ulbi-30",
+    "nama": null,
+    "jenis": "belum_diklasifikasi",
+    "luas_m2": 164.5,
+    "perlu_verifikasi": true,
+    "catatan": "Belum bernama. Terdekat dengan: Perpustakaan",
+    "fill": "#593A08",
+    "fill-opacity": 0.5
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       107.576035,
+       -6.873102
+      ],
+      [
+       107.575996,
+       -6.873096
+      ],
+      [
+       107.575983,
+       -6.873194
+      ],
+      [
+       107.576095,
+       -6.87321
+      ],
+      [
+       107.576112,
+       -6.873082
+      ],
+      [
+       107.576041,
+       -6.873072
+      ],
+      [
+       107.576035,
+       -6.873102
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ulbi-31",
+    "nama": null,
+    "jenis": "belum_diklasifikasi",
+    "panjang_m": 987.4,
+    "perlu_verifikasi": true,
+    "catatan": "Garis belum bernama dan belum diketahui jenisnya",
+    "stroke": "#9AA5AB",
+    "stroke-width": 3
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.574769,
+      -6.873968
+     ],
+     [
+      107.575372,
+      -6.87423
+     ],
+     [
+      107.575576,
+      -6.874308
+     ],
+     [
+      107.575641,
+      -6.874455
+     ],
+     [
+      107.575541,
+      -6.874702
+     ],
+     [
+      107.575659,
+      -6.874741
+     ],
+     [
+      107.57577,
+      -6.874497
+     ],
+     [
+      107.575872,
+      -6.874451
+     ],
+     [
+      107.575938,
+      -6.874472
+     ],
+     [
+      107.576025,
+      -6.874191
+     ],
+     [
+      107.576198,
+      -6.87419
+     ],
+     [
+      107.576443,
+      -6.874068
+     ],
+     [
+      107.576717,
+      -6.87394
+     ],
+     [
+      107.576804,
+      -6.873607
+     ],
+     [
+      107.576868,
+      -6.873495
+     ],
+     [
+      107.576966,
+      -6.873242
+     ],
+     [
+      107.577053,
+      -6.872969
+     ],
+     [
+      107.577103,
+      -6.872705
+     ],
+     [
+      107.577172,
+      -6.87208
+     ],
+     [
+      107.577046,
+      -6.871924
+     ],
+     [
+      107.576994,
+      -6.871916
+     ],
+     [
+      107.576804,
+      -6.872082
+     ],
+     [
+      107.576745,
+      -6.8721
+     ],
+     [
+      107.5767,
+      -6.872245
+     ],
+     [
+      107.576552,
+      -6.872276
+     ],
+     [
+      107.57636,
+      -6.872187
+     ],
+     [
+      107.576195,
+      -6.872155
+     ],
+     [
+      107.576062,
+      -6.872605
+     ],
+     [
+      107.57563,
+      -6.872522
+     ],
+     [
+      107.575545,
+      -6.872517
+     ],
+     [
+      107.575463,
+      -6.872557
+     ],
+     [
+      107.575391,
+      -6.873053
+     ],
+     [
+      107.575157,
+      -6.873113
+     ],
+     [
+      107.575071,
+      -6.873592
+     ],
+     [
+      107.574992,
+      -6.87365
+     ],
+     [
+      107.574929,
+      -6.873765
+     ],
+     [
+      107.574767,
+      -6.873962
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-01",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 24.6,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576229,
+      -6.873087
+     ],
+     [
+      107.576164,
+      -6.873032
+     ],
+     [
+      107.576032,
+      -6.872994
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-02",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 20.4,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576229,
+      -6.873087
+     ],
+     [
+      107.57617,
+      -6.873147
+     ],
+     [
+      107.576144,
+      -6.873243
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-03",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 19.6,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576229,
+      -6.873087
+     ],
+     [
+      107.576313,
+      -6.873103
+     ],
+     [
+      107.576394,
+      -6.873145
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-04",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 21.3,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.575957,
+      -6.874324
+     ],
+     [
+      107.575882,
+      -6.874368
+     ],
+     [
+      107.575777,
+      -6.874361
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-05",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 28.8,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576032,
+      -6.872994
+     ],
+     [
+      107.575986,
+      -6.873023
+     ],
+     [
+      107.575929,
+      -6.873037
+     ],
+     [
+      107.575907,
+      -6.873109
+     ],
+     [
+      107.57587,
+      -6.87317
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-06",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 11.3,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576032,
+      -6.872994
+     ],
+     [
+      107.576031,
+      -6.87295
+     ],
+     [
+      107.576054,
+      -6.872915
+     ],
+     [
+      107.576058,
+      -6.8729
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-07",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 46.9,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.575355,
+      -6.874152
+     ],
+     [
+      107.575395,
+      -6.874193
+     ],
+     [
+      107.575737,
+      -6.874326
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-08",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 32.1,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.575355,
+      -6.874152
+     ],
+     [
+      107.57515,
+      -6.874094
+     ],
+     [
+      107.575104,
+      -6.874032
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-09",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 17.3,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.575355,
+      -6.874152
+     ],
+     [
+      107.575387,
+      -6.874102
+     ],
+     [
+      107.575407,
+      -6.874008
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-10",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 31.6,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.575795,
+      -6.874048
+     ],
+     [
+      107.575737,
+      -6.874326
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-11",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 40.9,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.575795,
+      -6.874048
+     ],
+     [
+      107.575713,
+      -6.873959
+     ],
+     [
+      107.57547,
+      -6.873907
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-12",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 33.8,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.575795,
+      -6.874048
+     ],
+     [
+      107.575845,
+      -6.874029
+     ],
+     [
+      107.575921,
+      -6.873919
+     ],
+     [
+      107.576012,
+      -6.873844
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-13",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 25.8,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576012,
+      -6.873844
+     ],
+     [
+      107.575872,
+      -6.873659
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-14",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 32.3,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576012,
+      -6.873844
+     ],
+     [
+      107.576299,
+      -6.873901
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-15",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 93.4,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.5754,
+      -6.873727
+     ],
+     [
+      107.575315,
+      -6.873718
+     ],
+     [
+      107.575229,
+      -6.873673
+     ],
+     [
+      107.57511,
+      -6.873658
+     ],
+     [
+      107.575011,
+      -6.873707
+     ],
+     [
+      107.574948,
+      -6.873854
+     ],
+     [
+      107.574981,
+      -6.873903
+     ],
+     [
+      107.574982,
+      -6.873959
+     ],
+     [
+      107.575003,
+      -6.874005
+     ],
+     [
+      107.575104,
+      -6.874032
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-16",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 16.8,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.5754,
+      -6.873727
+     ],
+     [
+      107.575474,
+      -6.87367
+     ],
+     [
+      107.575528,
+      -6.873649
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-17",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 22.0,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.5754,
+      -6.873727
+     ],
+     [
+      107.575456,
+      -6.873811
+     ],
+     [
+      107.57547,
+      -6.873907
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-18",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 9.8,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.577131,
+      -6.872202
+     ],
+     [
+      107.577105,
+      -6.872167
+     ],
+     [
+      107.57706,
+      -6.872172
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-19",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 12.5,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576396,
+      -6.873844
+     ],
+     [
+      107.576299,
+      -6.873901
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-20",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 7.3,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576396,
+      -6.873844
+     ],
+     [
+      107.576456,
+      -6.873871
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-21",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 3.8,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576396,
+      -6.873844
+     ],
+     [
+      107.576405,
+      -6.873811
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-22",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 35.7,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576689,
+      -6.873559
+     ],
+     [
+      107.57661,
+      -6.873502
+     ],
+     [
+      107.576386,
+      -6.873478
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-23",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 42.9,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576689,
+      -6.873559
+     ],
+     [
+      107.576638,
+      -6.873598
+     ],
+     [
+      107.57659,
+      -6.873682
+     ],
+     [
+      107.576405,
+      -6.873811
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-24",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 17.0,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576689,
+      -6.873559
+     ],
+     [
+      107.576716,
+      -6.873564
+     ],
+     [
+      107.576826,
+      -6.873503
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-25",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 31.0,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576299,
+      -6.873901
+     ],
+     [
+      107.576275,
+      -6.874059
+     ],
+     [
+      107.576204,
+      -6.874154
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-26",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 5.9,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.575777,
+      -6.874361
+     ],
+     [
+      107.575737,
+      -6.874326
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-27",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 11.9,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.575777,
+      -6.874361
+     ],
+     [
+      107.575765,
+      -6.874467
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-28",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 62.0,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.575474,
+      -6.873125
+     ],
+     [
+      107.575429,
+      -6.873013
+     ],
+     [
+      107.575487,
+      -6.87258
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-29",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 44.1,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.575474,
+      -6.873125
+     ],
+     [
+      107.57587,
+      -6.87317
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-30",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 32.1,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.575474,
+      -6.873125
+     ],
+     [
+      107.575186,
+      -6.873162
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-31",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 9.9,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.577043,
+      -6.872885
+     ],
+     [
+      107.577055,
+      -6.872797
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-32",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 26.1,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.57668,
+      -6.873925
+     ],
+     [
+      107.576561,
+      -6.873923
+     ],
+     [
+      107.576456,
+      -6.873871
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-33",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 15.7,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576456,
+      -6.873871
+     ],
+     [
+      107.576595,
+      -6.873844
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-34",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 37.9,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576386,
+      -6.873478
+     ],
+     [
+      107.576361,
+      -6.873642
+     ],
+     [
+      107.576405,
+      -6.873811
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-35",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 26.4,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576386,
+      -6.873478
+     ],
+     [
+      107.576401,
+      -6.87331
+     ],
+     [
+      107.576392,
+      -6.873242
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-36",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 23.7,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576492,
+      -6.872456
+     ],
+     [
+      107.576367,
+      -6.872427
+     ],
+     [
+      107.57633,
+      -6.872379
+     ],
+     [
+      107.576309,
+      -6.872366
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-37",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 17.5,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576492,
+      -6.872456
+     ],
+     [
+      107.576542,
+      -6.872307
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-38",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 19.1,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576492,
+      -6.872456
+     ],
+     [
+      107.576584,
+      -6.872498
+     ],
+     [
+      107.576638,
+      -6.872544
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-39",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 13.9,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576638,
+      -6.872544
+     ],
+     [
+      107.576626,
+      -6.872668
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-40",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 8.9,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.575104,
+      -6.874032
+     ],
+     [
+      107.575162,
+      -6.873976
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-41",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 19.4,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576394,
+      -6.873145
+     ],
+     [
+      107.576542,
+      -6.873052
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-42",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 10.8,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576394,
+      -6.873145
+     ],
+     [
+      107.576392,
+      -6.873242
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-43",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 42.4,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.575872,
+      -6.873659
+     ],
+     [
+      107.575919,
+      -6.873281
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-44",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 34.0,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576971,
+      -6.87314
+     ],
+     [
+      107.576952,
+      -6.873104
+     ],
+     [
+      107.576887,
+      -6.873093
+     ],
+     [
+      107.576809,
+      -6.873112
+     ],
+     [
+      107.576689,
+      -6.873114
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-45",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 44.2,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576626,
+      -6.872668
+     ],
+     [
+      107.57658,
+      -6.87276
+     ],
+     [
+      107.576542,
+      -6.873052
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-46",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 12.7,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576144,
+      -6.873243
+     ],
+     [
+      107.576029,
+      -6.873244
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-47",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 6.5,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576144,
+      -6.873243
+     ],
+     [
+      107.576179,
+      -6.873266
+     ],
+     [
+      107.576196,
+      -6.873268
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-48",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 13.5,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.57587,
+      -6.87317
+     ],
+     [
+      107.575919,
+      -6.873281
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-49",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 4.8,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.57547,
+      -6.873907
+     ],
+     [
+      107.575452,
+      -6.873946
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-50",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 13.1,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576029,
+      -6.873244
+     ],
+     [
+      107.576,
+      -6.873244
+     ],
+     [
+      107.575919,
+      -6.873281
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-51",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 1.9,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.575528,
+      -6.873649
+     ],
+     [
+      107.575545,
+      -6.873651
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-52",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 36.8,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.575545,
+      -6.873651
+     ],
+     [
+      107.5758,
+      -6.873682
+     ],
+     [
+      107.575872,
+      -6.873659
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-53",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 16.7,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576058,
+      -6.8729
+     ],
+     [
+      107.5761,
+      -6.872756
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-54",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 54.1,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.577055,
+      -6.872797
+     ],
+     [
+      107.577057,
+      -6.872778
+     ],
+     [
+      107.577035,
+      -6.872732
+     ],
+     [
+      107.576767,
+      -6.872695
+     ],
+     [
+      107.576696,
+      -6.872701
+     ],
+     [
+      107.576626,
+      -6.872668
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-55",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 18.5,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576689,
+      -6.873114
+     ],
+     [
+      107.576633,
+      -6.873115
+     ],
+     [
+      107.576542,
+      -6.873052
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-56",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 0.8,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576826,
+      -6.873503
+     ],
+     [
+      107.576832,
+      -6.873499
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-57",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 22.3,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576196,
+      -6.873268
+     ],
+     [
+      107.576263,
+      -6.873279
+     ],
+     [
+      107.576392,
+      -6.873242
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-58",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 29.3,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.575162,
+      -6.873976
+     ],
+     [
+      107.575184,
+      -6.873954
+     ],
+     [
+      107.57536,
+      -6.873978
+     ],
+     [
+      107.575407,
+      -6.874008
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-59",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 81.7,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.57706,
+      -6.872172
+     ],
+     [
+      107.577044,
+      -6.872174
+     ],
+     [
+      107.576913,
+      -6.872105
+     ],
+     [
+      107.576785,
+      -6.87214
+     ],
+     [
+      107.576731,
+      -6.872304
+     ],
+     [
+      107.576709,
+      -6.872457
+     ],
+     [
+      107.576638,
+      -6.872544
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-60",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 15.4,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576309,
+      -6.872366
+     ],
+     [
+      107.576287,
+      -6.872353
+     ],
+     [
+      107.576287,
+      -6.872284
+     ],
+     [
+      107.576324,
+      -6.87226
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-61",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "utama",
+    "panjang_m": 8.6,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.575452,
+      -6.873946
+     ],
+     [
+      107.575439,
+      -6.873974
+     ],
+     [
+      107.575407,
+      -6.874008
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-62",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "akses",
+    "panjang_m": 4.3,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576029,
+      -6.873283
+     ],
+     [
+      107.576029,
+      -6.873244
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-63",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "akses",
+    "panjang_m": 4.8,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.575532,
+      -6.873606
+     ],
+     [
+      107.575528,
+      -6.873649
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-64",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "akses",
+    "panjang_m": 2.9,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.575513,
+      -6.872584
+     ],
+     [
+      107.575487,
+      -6.87258
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-65",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "akses",
+    "panjang_m": 3.1,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576128,
+      -6.872759
+     ],
+     [
+      107.5761,
+      -6.872756
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-66",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "akses",
+    "panjang_m": 2.9,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.577127,
+      -6.872228
+     ],
+     [
+      107.577131,
+      -6.872202
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-67",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "akses",
+    "panjang_m": 4.5,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.57554,
+      -6.873691
+     ],
+     [
+      107.575545,
+      -6.873651
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-68",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "akses",
+    "panjang_m": 4.2,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.575181,
+      -6.873199
+     ],
+     [
+      107.575186,
+      -6.873162
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-69",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "akses",
+    "panjang_m": 5.2,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576013,
+      -6.872887
+     ],
+     [
+      107.576058,
+      -6.8729
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-70",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "akses",
+    "panjang_m": 3.0,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.577028,
+      -6.872793
+     ],
+     [
+      107.577055,
+      -6.872797
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-71",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "akses",
+    "panjang_m": 6.0,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576688,
+      -6.87306
+     ],
+     [
+      107.576689,
+      -6.873114
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-72",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "akses",
+    "panjang_m": 3.2,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576812,
+      -6.873478
+     ],
+     [
+      107.576826,
+      -6.873503
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-73",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "akses",
+    "panjang_m": 3.4,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576689,
+      -6.873896
+     ],
+     [
+      107.57668,
+      -6.873925
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-74",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "akses",
+    "panjang_m": 4.3,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576202,
+      -6.87323
+     ],
+     [
+      107.576196,
+      -6.873268
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-75",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "akses",
+    "panjang_m": 2.2,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.575148,
+      -6.873962
+     ],
+     [
+      107.575162,
+      -6.873976
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-76",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "akses",
+    "panjang_m": 3.0,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.57596,
+      -6.874297
+     ],
+     [
+      107.575957,
+      -6.874324
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-77",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "akses",
+    "panjang_m": 3.3,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.575736,
+      -6.874475
+     ],
+     [
+      107.575765,
+      -6.874467
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-78",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "akses",
+    "panjang_m": 4.3,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.577055,
+      -6.872134
+     ],
+     [
+      107.57706,
+      -6.872172
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-79",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "akses",
+    "panjang_m": 2.8,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576346,
+      -6.872273
+     ],
+     [
+      107.576324,
+      -6.87226
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-80",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "akses",
+    "panjang_m": 7.5,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576274,
+      -6.872424
+     ],
+     [
+      107.576309,
+      -6.872366
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-81",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "akses",
+    "panjang_m": 3.6,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.576574,
+      -6.872311
+     ],
+     [
+      107.576542,
+      -6.872307
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "jalan-82",
+    "nama": null,
+    "jenis": "jalan",
+    "tipe": "akses",
+    "panjang_m": 3.7,
+    "status": "estimasi",
+    "stroke": "#E76F51",
+    "stroke-width": 2
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      107.575482,
+      -6.87396
+     ],
+     [
+      107.575452,
+      -6.873946
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "pintu-01",
+    "nama": "Bank BRI ATM - POLTEKPOS",
+    "jenis": "pintu",
+    "bangunan_id": "ulbi-01"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.576029,
+     -6.873283
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "pintu-02",
+    "nama": "Gedung Pendidikan",
+    "jenis": "pintu",
+    "bangunan_id": "ulbi-02"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.575532,
+     -6.873606
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "pintu-03",
+    "nama": "Anggrek",
+    "jenis": "pintu",
+    "bangunan_id": "ulbi-03"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.575513,
+     -6.872584
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "pintu-04",
+    "nama": "FLTB",
+    "jenis": "pintu",
+    "bangunan_id": "ulbi-04"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.576128,
+     -6.872759
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "pintu-05",
+    "nama": "Rafflesia",
+    "jenis": "pintu",
+    "bangunan_id": "ulbi-05"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.577127,
+     -6.872228
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "pintu-06",
+    "nama": "Rektorat Universitas Logistik dan Bisnis Internasional",
+    "jenis": "pintu",
+    "bangunan_id": "ulbi-06"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.57554,
+     -6.873691
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "pintu-07",
+    "nama": "Motor",
+    "jenis": "pintu",
+    "bangunan_id": "ulbi-07"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.575181,
+     -6.873199
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "pintu-08",
+    "nama": "Masjid Nurul Ilmi",
+    "jenis": "pintu",
+    "bangunan_id": "ulbi-08"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.576013,
+     -6.872887
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "pintu-09",
+    "nama": "Tenis",
+    "jenis": "pintu",
+    "bangunan_id": "ulbi-09"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.577028,
+     -6.872793
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "pintu-10",
+    "nama": "Sarana Prasarana",
+    "jenis": "pintu",
+    "bangunan_id": "ulbi-10"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.576688,
+     -6.87306
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "pintu-11",
+    "nama": "GOR",
+    "jenis": "pintu",
+    "bangunan_id": "ulbi-11"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.576812,
+     -6.873478
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "pintu-12",
+    "nama": "Center of Technology",
+    "jenis": "pintu",
+    "bangunan_id": "ulbi-12"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.576689,
+     -6.873896
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "pintu-13",
+    "nama": "Perpustakaan",
+    "jenis": "pintu",
+    "bangunan_id": "ulbi-13"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.576202,
+     -6.87323
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "pintu-14",
+    "nama": "Gandaria",
+    "jenis": "pintu",
+    "bangunan_id": "ulbi-14"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.575148,
+     -6.873962
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "pintu-15",
+    "nama": "Pos Satpam",
+    "jenis": "pintu",
+    "bangunan_id": "ulbi-15"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.57596,
+     -6.874297
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "pintu-16",
+    "nama": "YPBPI",
+    "jenis": "pintu",
+    "bangunan_id": "ulbi-16"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.575736,
+     -6.874475
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "pintu-17",
+    "nama": "MBG",
+    "jenis": "pintu",
+    "bangunan_id": "ulbi-17"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.577055,
+     -6.872134
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "pintu-18",
+    "nama": "Sekretariat Himpunan",
+    "jenis": "pintu",
+    "bangunan_id": "ulbi-18"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.576346,
+     -6.872273
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "pintu-19",
+    "nama": "Ruang Serba Guna",
+    "jenis": "pintu",
+    "bangunan_id": "ulbi-19"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.576274,
+     -6.872424
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "pintu-20",
+    "nama": "Menara Air",
+    "jenis": "pintu",
+    "bangunan_id": "ulbi-20"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.576574,
+     -6.872311
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "pintu-21",
+    "nama": "Parkir",
+    "jenis": "pintu",
+    "bangunan_id": "ulbi-22"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.575482,
+     -6.87396
+    ]
+   }
+  }
+ ],
+ "catatan": "Jalan berstatus estimasi: dibuat otomatis dari ruang kosong di antara gedung (medial axis), bukan hasil survei. Verifikasi dengan citra satelit sebelum dipakai sebagai data resmi."
+}

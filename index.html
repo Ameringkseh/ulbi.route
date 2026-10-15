@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rute Kampus ULBI | CrootJS</title>
+    <meta name="description" content="Cari rute jalan kaki terpendek antar gedung di kampus ULBI. Dihitung langsung di browser dari data GeoJSON dengan CrootJS.">
+    <meta name="keywords" content="ULBI, rute kampus, GeoJSON, CrootJS, peta, geospasial">
+    <meta property="og:title" content="Rute Kampus ULBI">
+    <meta property="og:description" content="Rute terpendek antar gedung ULBI, dihitung di browser dari data GeoJSON.">
+    <meta property="og:type" content="website">
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%97%BA%EF%B8%8F%3C/text%3E%3C/svg%3E">
+    <link rel="stylesheet" href="style.css">
+    <script type="module" src="app.js"></script>
+</head>
+<body>
+    <header class="topbar">
+        <h1>Rute Kampus ULBI</h1>
+        <p>Rute jalan kaki terpendek antar gedung, dihitung di browser dari data GeoJSON</p>
+    </header>
+
+    <main class="layout">
+        <aside class="panel">
+            <section class="blok">
+                <label class="judul-blok" for="asal">Titik berangkat</label>
+                <select id="asal" class="kontrol" disabled>
+                    <option value="">Memuat data...</option>
+                </select>
+
+                <button id="tukar" class="tombol tombol-kecil" type="button">&#8645; Tukar asal dan tujuan</button>
+
+                <label class="judul-blok" for="tujuan">Titik tujuan</label>
+                <select id="tujuan" class="kontrol" disabled>
+                    <option value="">Memuat data...</option>
+                </select>
+
+                <p class="petunjuk">Atau klik peta untuk menaruh pin, lalu geser pin untuk mengubah titik.</p>
+                <button id="reset" class="tombol tombol-garis" type="button">Reset</button>
+            </section>
+
+            <section id="hasil" class="blok hasil sembunyi" aria-live="polite">
+                <h2 class="judul-blok">Hasil rute</h2>
+                <div class="angka-besar">
+                    <span id="jarakTotal">-</span>
+                    <small id="waktuJalan">-</small>
+                </div>
+                <dl class="rincian">
+                    <dt>Jarak di jalan</dt><dd id="jarakJalan">-</dd>
+                    <dt>Garis lurus</dt><dd id="garisLurus">-</dd>
+                </dl>
+                <p id="catatanPin" class="petunjuk"></p>
+            </section>
+
+            <section class="blok">
+                <h2 class="judul-blok">Tampilan</h2>
+                <label class="baris-cek">
+                    <input id="toggleJalan" type="checkbox" checked>
+                    <span>Tampilkan jaringan jalan</span>
+                </label>
+                <label class="judul-kecil" for="peta">Peta dasar</label>
+                <select id="peta" class="kontrol">
+                    <option value="osm">OpenStreetMap</option>
+                    <option value="satelit">Citra satelit (Esri)</option>
+                    <option value="kosong">Tanpa peta dasar</option>
+                </select>
+
+                <ul class="legenda">
+                    <li><i class="sw sw-gedung"></i>Gedung dan fasilitas</li>
+                    <li><i class="sw sw-belum"></i>Belum bernama</li>
+                    <li><i class="sw sw-kanopi"></i>Jalur kanopi</li>
+                    <li><i class="sw sw-jalan"></i>Jaringan jalan</li>
+                    <li><i class="sw sw-rute"></i>Rute terpilih</li>
+                </ul>
+            </section>
+
+            <p id="status" class="catatan">Memuat data...</p>
+            <p class="catatan">Jaringan jalan berstatus <strong>estimasi</strong>: dibuat otomatis dari ruang kosong di antara gedung, bukan hasil survei. Bandingkan dengan citra satelit sebelum dipakai sebagai acuan.</p>
+        </aside>
+
+        <div id="map" class="peta" role="application" aria-label="Peta kampus ULBI"></div>
+    </main>
+</body>
+</html>

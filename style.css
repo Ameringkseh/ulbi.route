@@ -1,0 +1,235 @@
+:root {
+    --bg: #0b1d26;
+    --panel: #12303d;
+    --panel-2: #0f2733;
+    --garis: #1f4a5c;
+    --teks: #f4efe6;
+    --redup: #a9b8bf;
+    --emas: #c9a24b;
+    --teal: #3fb8af;
+    --jalan: #e76f51;
+    --rute: #2f6bff;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+    height: 100%;
+    margin: 0;
+    background: var(--bg);
+    color: var(--teks);
+    font-family: "Segoe UI", Calibri, Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100dvh;
+}
+
+.topbar {
+    padding: 12px 20px;
+    border-bottom: 1px solid var(--garis);
+    background: var(--bg);
+}
+
+.topbar h1 {
+    margin: 0;
+    font-family: Cambria, Georgia, serif;
+    font-size: 1.4rem;
+    color: var(--teks);
+}
+
+.topbar p {
+    margin: 2px 0 0;
+    font-size: 0.85rem;
+    color: var(--redup);
+}
+
+.layout {
+    flex: 1;
+    min-height: 0;
+    display: grid;
+    grid-template-columns: 360px 1fr;
+}
+
+.panel {
+    overflow-y: auto;
+    padding: 16px;
+    background: var(--bg);
+    border-right: 1px solid var(--garis);
+}
+
+.peta {
+    height: 100%;
+    min-height: 320px;
+    background: var(--panel-2);
+}
+
+.blok {
+    background: var(--panel);
+    border: 1px solid var(--garis);
+    border-radius: 12px;
+    padding: 14px;
+    margin-bottom: 14px;
+}
+
+.judul-blok {
+    display: block;
+    margin: 0 0 6px;
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--emas);
+}
+
+.judul-kecil {
+    display: block;
+    margin: 12px 0 6px;
+    font-size: 0.85rem;
+    color: var(--redup);
+}
+
+.kontrol {
+    width: 100%;
+    padding: 10px 12px;
+    margin-bottom: 10px;
+    font: inherit;
+    color: var(--teks);
+    background: var(--bg);
+    border: 1px solid var(--garis);
+    border-radius: 8px;
+}
+
+.kontrol:focus-visible,
+.tombol:focus-visible,
+.baris-cek input:focus-visible {
+    outline: 2px solid var(--emas);
+    outline-offset: 2px;
+}
+
+.tombol {
+    display: inline-block;
+    padding: 8px 14px;
+    font: inherit;
+    font-weight: 600;
+    color: var(--bg);
+    background: var(--emas);
+    border: 1px solid var(--emas);
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.tombol:hover { filter: brightness(1.08); }
+
+.tombol-kecil {
+    width: 100%;
+    margin: 0 0 10px;
+    font-size: 0.85rem;
+    color: var(--teks);
+    background: var(--panel-2);
+    border-color: var(--garis);
+}
+
+.tombol-garis {
+    color: var(--teks);
+    background: transparent;
+    border-color: var(--garis);
+}
+
+.petunjuk,
+.catatan {
+    margin: 8px 0;
+    font-size: 0.8rem;
+    line-height: 1.45;
+    color: var(--redup);
+}
+
+.sembunyi { display: none; }
+
+.angka-besar {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+    margin-bottom: 8px;
+}
+
+.angka-besar span {
+    font-family: Cambria, Georgia, serif;
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--emas);
+}
+
+.angka-besar small { color: var(--teks); font-size: 0.9rem; }
+
+.rincian {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 4px 12px;
+    margin: 0;
+    font-size: 0.9rem;
+}
+
+.rincian dt { color: var(--redup); }
+.rincian dd { margin: 0; text-align: right; }
+
+.baris-cek {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.9rem;
+    cursor: pointer;
+}
+
+.legenda {
+    list-style: none;
+    margin: 14px 0 0;
+    padding: 0;
+    display: grid;
+    gap: 6px;
+    font-size: 0.85rem;
+    color: var(--redup);
+}
+
+.legenda li { display: flex; align-items: center; gap: 10px; }
+
+.sw {
+    display: inline-block;
+    width: 22px;
+    height: 12px;
+    border-radius: 3px;
+}
+
+.sw-gedung { background: var(--emas); }
+.sw-belum { background: #9aa5af; }
+.sw-kanopi { height: 4px; background: var(--teal); }
+.sw-jalan { height: 3px; background: var(--jalan); }
+.sw-rute { height: 5px; background: var(--rute); }
+
+/* isi popup bangunan (dibuat dari app.js) */
+.popup { display: grid; gap: 4px; min-width: 170px; font-family: inherit; }
+.popup strong { font-size: 0.95rem; }
+.popup span { font-size: 0.8rem; color: #555; }
+.popup-aksi { display: flex; gap: 6px; margin-top: 6px; }
+.popup-aksi button {
+    flex: 1;
+    padding: 6px 8px;
+    font: inherit;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: #fff;
+    background: #12303d;
+    border: 0;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.popup-aksi button + button { background: #c9a24b; color: #0b1d26; }
+
+@media (max-width: 800px) {
+    body { height: auto; min-height: 100dvh; }
+    .layout { display: block; }
+    .panel { border-right: 0; border-bottom: 1px solid var(--garis); }
+    .peta { height: 65vh; }
+}
