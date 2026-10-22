@@ -1,0 +1,13 @@
+{
+  "name": "ulbi-mongodb-geojson",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Import GeoJSON features to MongoDB and run geospatial queries",
+  "scripts": {
+    "import": "node import.js",
+    "query": "node queries.js"
+  },
+  "dependencies": {
+    "mongodb": "^6.10.0"
+  }
+}
